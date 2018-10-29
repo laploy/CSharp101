@@ -1,5 +1,5 @@
 # CSharp101
-##Course materials for C# programming language course
+## Course materials for C# programming language course
 
   - 0010 Introduction to course
   - 0040 Principles of Object Oriented
